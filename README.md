@@ -58,7 +58,3 @@ Your html head section will look like this
       });
     </script>
 
- then you call your map in the body of your html
-<script>
-<div id="vmap" style="width: 600px; height: 400px;"></div>
-</script>
