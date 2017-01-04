@@ -5,14 +5,10 @@ email: sanusikorede@gmail.com
 
 This project is created using jquery vector map (jqvmap) on december 2016. I chose to write this for developer who are out there looking for Nigerian vector maps or wants to integrate it in their application, here is a simple code to help you out.
 
-# your html will look like this
+Your html head section will look like this
 
-
-<!DOCTYPE html>
-<html>
 <head>
-    <title>Nigeria Vector Map</title>
-    <meta charset="utf-8" />
+   
     <link href="dist/jqvmap.css" media="screen" rel="stylesheet" type="text/css" />
 
     <style>
@@ -61,9 +57,8 @@ This project is created using jquery vector map (jqvmap) on december 2016. I cho
         });
       });
     </script>
-</head>
 
-<body>
-    <div id="vmap" style="width: 600px; height: 400px;"></div>
-</body>
-</html>
+ then you call your map in the body of your html
+<script>
+<div id="vmap" style="width: 600px; height: 400px;"></div>
+</script>
