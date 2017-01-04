@@ -58,3 +58,7 @@ Your html head section will look like this
       });
     </script>
 
+
+<body>
++    <div id="vmap" style="width: 600px; height: 400px;"></div>
+</body>
