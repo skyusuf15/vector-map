@@ -3,7 +3,7 @@ creating a vector map for Nigeria
 created by sanusi korede yusuf
 email: sanusikorede@gmail.com
 
-This project is created using jquery vector map (jqvmap) on december 2016. I chose to write this for developer who are out there looking for Nigerian vector maps or wants to integrate it in their application, here is a simple code to help you out.
+This project was created december 2016 using jquery vector map (jqvmap). I chose to write this for developer who are out there looking for Nigerian vector maps or wants to integrate it in their application, here is a simple code to help you out.
 
 Your html head section will look like this
 
@@ -58,7 +58,8 @@ Your html head section will look like this
       });
     </script>
 
-
-<body>
-+    <div id="vmap" style="width: 600px; height: 400px;"></div>
-</body>
+      <body>
+          <div id="vmap" style="width: 600px; height: 400px;"></div>
+      </body>
+   
+Hope this help some one out there.
